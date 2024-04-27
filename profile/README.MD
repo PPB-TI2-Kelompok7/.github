@@ -19,7 +19,7 @@ Let us introduce you to the masterminds behind this project
 | TI-2  | 21102076 | [Ardea Himawan Nugroho](https://github.com/ArdeaHN) |
 | TI-2  | 21102007 | [Muhammad Makhdum Wahid]() | 
 | TI-2  | 21102121 | [Mansur Julianto](http://github.com/BM-TechID) |
-| TI-2  | 21102128 | [Setyoko Almuludin]() |
+| TI-2  | 21102128 | [Setyoko Almuludin](http://github.com/BangYOKS) |
 
 ## Task Distribution 
 
