@@ -17,7 +17,7 @@ Let us introduce you to the masterminds behind this project
 | KELAS | NIM      | GitHub Link                 |
 |-------|----------|-----------------------------|
 | TI-2  | 21102076 | [Ardea Himawan Nugroho](https://github.com/ArdeaHN) |
-| TI-2  | 21102007 | [Muhammad Makhdum Wahid]() | 
+| TI-2  | 21102007 | [Muhammad Makhdum Wahid](https://github.com/dihawmud) | 
 | TI-2  | 21102121 | [Mansur Julianto](http://github.com/BM-TechID) |
 | TI-2  | 21102128 | [Setyoko Almuludin](http://github.com/BangYOKS) |
 
